@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Quad Cities
+title: Hello.
 ---
 Is this thing on?
 
