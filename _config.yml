@@ -12,12 +12,12 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>A weird blog about the Quad Cities.</p>
 
      
   header_text_feature_image: img/codfish-hollow-barn-interior.jpg
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   <small>© Copyright 2015</small>
 
   # Icons
   rss: false
@@ -42,7 +42,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-65206500-1
   disqus_shortname:
   katex: true # Enable if using math markup
 
