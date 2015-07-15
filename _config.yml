@@ -15,7 +15,7 @@ theme:
      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
      
-  header_text_feature_image: codfish-hollow-barn-interior.jpg
+  header_text_feature_image: img/codfish-hollow-barn-interior.jpg
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
